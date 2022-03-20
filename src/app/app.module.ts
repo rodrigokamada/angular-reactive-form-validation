@@ -3,16 +3,22 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { EmailValidatorDirective } from './email-validator.directive';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    EmailValidatorDirective,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
-  providers: [],
-  bootstrap: [AppComponent]
+  providers: [
+  ],
+  bootstrap: [
+    AppComponent,
+  ],
 })
-export class AppModule { }
+export class AppModule {
+}
