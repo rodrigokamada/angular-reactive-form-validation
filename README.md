@@ -346,7 +346,7 @@ Build at: 2022-03-21T00:40:49.519Z - Hash: af669f909d9510f8 - Time: 3254ms
 
 **9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-reactive-form-validation/) and [Stackblitz](https://stackblitz.com/edit/angular13-reactive-form-validation).
 
-![Angular Reactive Form Validation]()
+![Angular Reactive Form Validation](https://res.cloudinary.com/rodrigokamada/image/upload/v1647862829/Blog/angular-reactive-form-validation/angular-reactive-form-validation.png)
 
 
 
