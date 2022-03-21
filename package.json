@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -12,7 +13,6 @@
     "test": "ng test",
     "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~13.3.0",
     "@angular/common": "~13.3.0",
