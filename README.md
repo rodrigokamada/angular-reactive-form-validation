@@ -77,7 +77,7 @@ CREATE src/app/email-validator.directive.ts (157 bytes)
 UPDATE src/app/app.module.ts (592 bytes)
 ```
 
-**4.** Change the `src/app/email-validator.directive.ts` file. Implement the `Validator` interface as below.
+**4.** Change the `src/app/email-validator.directive.ts` file. Create the `emailValidator` function and the `EmailValidatorDirective` class as below.
 
 ```typescript
 import { Directive } from '@angular/core';
