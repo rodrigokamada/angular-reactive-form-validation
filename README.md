@@ -1,7 +1,7 @@
 # Angular Reactive Form Validation
 
 
-Application example built with [Angular](https://angular.io/) 13 and creating and validating a reactive form.
+Application example built with [Angular](https://angular.io/) 14 and creating and validating a reactive form.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/criando-e-validando-um-formulario-reactive-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/creating-and-validating-a-reactive-form-to-an-angular-application-1j0c) in english.
 
@@ -344,7 +344,7 @@ Build at: 2022-03-21T00:40:49.519Z - Hash: af669f909d9510f8 - Time: 3254ms
 ✔ Compiled successfully.
 ```
 
-**9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-reactive-form-validation/) and [Stackblitz](https://stackblitz.com/edit/angular13-reactive-form-validation).
+**9.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-reactive-form-validation/) and [Stackblitz](https://stackblitz.com/edit/angular14-reactive-form-validation).
 
 ![Angular Reactive Form Validation](https://res.cloudinary.com/rodrigokamada/image/upload/v1647862829/Blog/angular-reactive-form-validation/angular-reactive-form-validation.png)
 
